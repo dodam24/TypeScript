@@ -15,7 +15,7 @@ var john = { name: 'kim' };
 // class 타입 지정
 var User = /** @class */ (function () {
     function User(name) {
-        this, name = name;
+        this.name = name;
     }
     return User;
 }());

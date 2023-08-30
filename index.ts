@@ -38,6 +38,6 @@ let john :Member = { name : 'kim' }
 class User {
     name;
     constructor(name :string) {
-        this,name = name;
+        this.name = name;
     }
 }
