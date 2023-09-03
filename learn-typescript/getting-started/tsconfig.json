@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
         "allowJs": true,
-        "checkJs": true,    // @ts-check
+        "checkJs": true,    // @ts-check 역할
         "noImplicitAny": true
     }
 }
