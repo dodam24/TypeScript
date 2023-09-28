@@ -4,5 +4,4 @@ class Student {
     constructor(name: string) {
         this.name = name;
     }
-
 }
